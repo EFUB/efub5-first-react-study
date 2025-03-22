@@ -1,0 +1,24 @@
+ {
+  "name": "react_study",
+  "version": "1.0.0",
+  "description": "💙 이펍 5기 프론트엔드 [처음 만난 React] 강의 스터디",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakyunghahm/efub5-first-react-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakyunghahm/efub5-first-react-study/issues"
+  },
+  "homepage": "https://github.com/hakyunghahm/efub5-first-react-study#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
