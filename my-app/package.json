@@ -1,4 +1,15 @@
 
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^4.2.4"
+
+
  {
   "name": "react_study",
   "version": "1.0.0",
@@ -21,7 +32,7 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
-=======
+
 {
   "name": "my-app",
   "version": "0.1.0",
@@ -35,6 +46,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+
   },
   "scripts": {
     "start": "react-scripts start",
@@ -42,12 +54,14 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
+
   "browserslist": {
     "production": [
       ">0.2%",
